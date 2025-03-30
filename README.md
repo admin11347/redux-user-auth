@@ -56,9 +56,7 @@ Run this command to install dependencies in both the backend & frontend folders:
   # Run frontend only
   npm run client
 ```
-
 ## Roadmap
-
 - Update the authentication mechanism to use Cookies instead of WebStorage(Local or Session)
 
 ## License
